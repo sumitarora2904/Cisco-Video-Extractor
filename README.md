@@ -27,24 +27,23 @@ This Python script extracts video data (direct video URL) from Cisco video links
 
 To install the required dependencies, run the following command:
 
-pip install requests
+'pip install requests'
 
 ## Setup
 
 1. Clone this repository to your local machine:
 
-  git clone https://github.com/yourusername/cisco-video-extractor.git
+  'git clone https://github.com/yourusername/cisco-video-extractor.git'
 
 2. Change to the project directory:
 
-   cd cisco-video-extractor
-
+   'cd cisco-video-extractor'
 
 ## Usage
 
 1. Run the script:
   
-   python video_extractor.py
+   'python video_extractor.py'
 
 2. When prompted, input the Cisco video URL. For example:
 
