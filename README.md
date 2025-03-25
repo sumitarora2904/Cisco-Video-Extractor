@@ -32,10 +32,10 @@ To install the required dependencies, run the following command:
 ## Setup
 
 1. Clone this repository to your local machine:
+   
+   `git clone https://github.com/yourusername/cisco-video-extractor.git`
 
-  `git clone https://github.com/yourusername/cisco-video-extractor.git`
-
-2. Change to the project directory:
+4. Change to the project directory:
 
    `cd cisco-video-extractor`
 
