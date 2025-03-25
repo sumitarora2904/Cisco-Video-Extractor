@@ -21,7 +21,6 @@ This Python script extracts video data (direct video URL) from Cisco video links
 
 - Python 3.x
 - `requests` library
-- You need to obtain a valid access token from Brightcove to access the API.
 
 ### Installing Dependencies
 
