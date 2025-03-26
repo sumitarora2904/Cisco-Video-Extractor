@@ -43,7 +43,7 @@ pip install pyperclip
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/cisco-video-extractor.git
+   git clone https://github.com/sumitarora2904/cisco-video-extractor.git
    ```
 
 2. Change to the project directory:
