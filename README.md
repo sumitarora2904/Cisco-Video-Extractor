@@ -57,7 +57,7 @@ pip install pyperclip
 1. Run the script:
 
    ```bash
-   python video_extractor_gui.py
+   python cisco.py
    ```
 
 2. The Tkinter-based GUI will appear. Enter the Cisco video URL in the provided text field. For example:
