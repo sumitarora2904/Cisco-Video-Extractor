@@ -11,11 +11,10 @@ warnings.simplefilter('ignore', InsecureRequestWarning)
 
 # Function to validate the Cisco video URL
 def validate_url(url):
-    # Update the pattern to capture the video ID correctly
-    pattern = r"^https://video\.cisco\.com/.*?/([^/]+)"  # Captures video ID after the last slash
+    pattern = r"^https://video\.cisco\.com/detail/(video|videos/latest-videos/video)/(\d+)"
     match = re.match(pattern, url)
     if match:
-        video_id = match.group(1)  # Capture the first group which is the video ID
+        video_id = match.group(2)
         return video_id
     return None
 
