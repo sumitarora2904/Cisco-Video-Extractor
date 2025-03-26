@@ -14,14 +14,6 @@ This Python script extracts video data (direct video URL) from Cisco video links
   - Copy the video URL to clipboard.
   - Open the video URL in a web browser.
 
-## Supported URL Formats
-
-- **Old format**:  
-  `https://video.cisco.com/detail/video/{video_id}`
-
-- **New format**:  
-  `https://video.cisco.com/detail/videos/latest-videos/video/{video_id}?autoStart=true`
-
 ## Prerequisites
 
 - Python 3.x
